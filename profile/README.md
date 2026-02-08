@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1390855929565548669/1466484025639047401/IMG_8721.png?ex=697ce92d&is=697b97ad&hm=d07949f2483138df951a848d316d0b55bbc329f7d43a7d6891f1b22a35b65766" alt="GoatRealm Banner">
+  <img src="./assets/images/GoatRealm_Banner.webp" alt="GoatRealm Banner" width="100%">
 </p>
 
 ## 🚀 Welcome to GoatRealm Inc.
@@ -33,5 +33,5 @@ Want to be part of it?
 [Join our community]()
 [Contribute to GoatRealm’s growth]()
 
-    GoatRealm Inc. — smart hosting, innovation, and technology.
-      Deploy your bots, applications, and systems with speed, simplicity, and reliability.
+> **GoatRealm Inc.** — smart hosting, innovation, and technology.  
+> Deploy your bots, applications, and systems with speed, simplicity, and reliability.
